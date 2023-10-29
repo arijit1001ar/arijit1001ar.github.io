@@ -2,6 +2,5 @@ streamlit
 pandas
 numpy
 requests
-st_lottie==0.2.0
-Pillow==8.3.2
-Image
+streamlit-lottie
+Pillow
