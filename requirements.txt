@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+requests
+st_lottie
+Image
