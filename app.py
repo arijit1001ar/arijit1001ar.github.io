@@ -33,7 +33,7 @@ with st.container():
     st.subheader("Hi, I am Arijit :wave:")
     st.title("A Data Architect From Canada")
     st.write(
-        "I am passionate about building an web app to manage data and metadata in Salesforce."
+        "I am passionate about the world of data and metadata."
     )
    # st.write("[Learn More >](https://pythonandvba.com)")
 
